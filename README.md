@@ -50,6 +50,20 @@ Standing + No Pressure → Motor Release
 
 ---
 
+## 📂 Complete Project Documentation
+
+All detailed project materials including:
+
+- 📄 Full MSc Dissertation Report  
+- 📸 System Images & Circuit Diagrams  
+- 🎥 Working Demonstration Videos  
+- 💻 Complete Source Code  
+
+are available here:
+
+👉 [View Complete Project Files on Google Drive]
+(https://drive.google.com/drive/folders/1dA3TuVWmqlDBgbl7_bq4trbJ_UqnaUIW?usp=sharing)
+
 ## Author
 
 Raghuram Damarla  
